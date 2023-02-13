@@ -83,7 +83,7 @@ idsubmitCheck.addEventListener('click',clickIdHandler);
   emailsubmitCheck.addEventListener('click',clickEmailHandler);
 
 
-//Checkbox 전체선택 / 전체선택 해제 함수
+//Checkbox 전체선택 / 전체선택 해제 함수.
 let checkAll = document.getElementById('chk-all');
   let checkList = document.querySelectorAll('.check');
   let check1 = document.getElementById('chk01');
